@@ -1,5 +1,4 @@
 # Real-time Sentiment Analysis Dashboard
-
 A BERT-based FastAPI model for analyzing real-time social media feedback with Power BI integration.
 
 ## 🎯 Impact
